@@ -1,2 +1,2 @@
 # rsschool-cv
-[CV in Markdown](https://halina-k.github.io/rsschool-cv/cv)
+https://halina-k.github.io/rsschool-cv/
